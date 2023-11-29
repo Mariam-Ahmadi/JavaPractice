@@ -1,0 +1,2 @@
+# JavaPractice
+Simple practice code
